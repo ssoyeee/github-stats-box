@@ -6,14 +6,14 @@
   <p align="center">⚡️📌 Update a pinned gist to contain your GitHub stats</p>
 </p>
 
----
+----
 
 ## Prep work
 
 1. Create a new public GitHub Gist (https://gist.github.com/new)
 2. Create a token with the `gist` and `repo` scopes and copy it (https://github.com/settings/tokens/new)
 
-## Project setup
+## Project setup  
 
 1. Fork this repository
 2. From your new fork, go to **Settings > Secrets**
